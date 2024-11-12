@@ -1,0 +1,21 @@
+{
+  "name": "threejsproject",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "postprocessing": "^6.36.4",
+    "realism-effects": "^1.1.2",
+    "three": "^0.170.0",
+    "three-gpu-pathtracer": "^0.0.23",
+    "three-stdlib": "^2.34.0"
+  }
+}

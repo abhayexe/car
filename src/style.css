@@ -1,0 +1,17 @@
+/* Basic CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #181818;
+    color: #ffffff;
+    overflow: hidden; /* Prevent scrolling */
+  }
+  
+  canvas {
+    display: block;
+  }
+  
